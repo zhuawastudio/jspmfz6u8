@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS jspmfz6u8;
+
